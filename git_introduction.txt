@@ -1,0 +1,23 @@
+A git commit is a snapshot of the current state of a project's codebase. It is created using the git commit command and includes the following information:
+
+The commit message, which is a brief description of the changes made in the commit.
+The list of files that were changed in the commit.
+The SHA-1 hash of the commit, which is a unique identifier for the commit.
+Commits are used to track the changes made to a project over time. They can be used to revert changes, to compare different versions of the project, and to collaborate with others on a project.
+
+The term "commit" comes from data management, where it refers to making a set of tentative changes permanent. In the context of Git, a commit is a permanent record of the changes made to a project's codebase.
+
+Here are some of the benefits of using git commits:
+
+They provide a way to track the changes made to a project over time.
+They can be used to revert changes that were made in error.
+They can be used to compare different versions of a project.
+They can be used to collaborate with others on a project.
+When creating a git commit, it is important to provide a clear and concise commit message that describes the changes made in the commit. The commit message should be informative enough that someone who is not familiar with the project can understand what the changes are.
+
+Here are some tips for writing a good git commit message:
+
+Start the commit message with a short summary of the changes made.
+Explain the changes in more detail in the body of the commit message.
+Use keywords that will make it easy to find the commit later.
+Avoid using jargon or technical terms that someone unfamiliar with the project might not understand.
